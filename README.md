@@ -1,7 +1,8 @@
-#H Avijit Sharker — Excel Analytics Portfolio
+#H1 Avijit Sharker — Excel Analytics Portfolio
+
 A portfolio of four interactive Excel workbooks built to showcase the analytical, reporting, and data-management skills from my wealth-management and operations background. Each workbook uses live Excel formulas (no hardcoded results), conditional formatting, native charts, Excel Tables with filters, and realistic sample data — all openable in Microsoft Excel, Google Sheets, or LibreOffice.
 
-About Me
+#H2 About Me
 Service-oriented wealth-management professional with an MBA in Management Information Systems and 3+ years of experience across banking client service and operations. Advanced Excel (dashboards, pivot tables, formulas), CRM systems, client onboarding, and compliance — used daily in fast-paced, client-facing environments.
 
 Projects
