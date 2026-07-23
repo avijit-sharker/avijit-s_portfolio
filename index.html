@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Financial Portfolio — Data, Valuation &amp; Risk Projects</title>
+  <meta name="description" content="A portfolio of financial data projects: stock-trend dashboard, DCF valuation calculator, and crypto-volatility tracker." />
+  <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="./index.html" class="brand">Fin<span>Portfolio</span></a>
+      <nav class="nav">
+        <a href="./index.html" class="active">Home</a>
+        <a href="./projects/stock-dashboard/index.html">Stock Dashboard</a>
+        <a href="./projects/dcf-calculator/index.html">DCF Calculator</a>
+        <a href="./projects/crypto-volatility/index.html">Crypto Volatility</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>Financial Data &amp; Valuation Projects</h1>
+      <p>Three interactive tools for market analysis — price visualization, intrinsic-value modeling, and risk measurement. Built as static sites with vanilla JavaScript and Chart.js, deployable free on GitHub Pages.</p>
+      <div class="badge-row">
+        <span class="badge">Chart.js</span>
+        <span class="badge">Alpha Vantage</span>
+        <span class="badge">CoinGecko</span>
+        <span class="badge">GitHub Pages</span>
+        <span class="badge">GitHub Actions</span>
+      </div>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="grid">
+      <article class="card">
+        <span class="tag">Visualization</span>
+        <h3>Stock Trend Dashboard</h3>
+        <p>Interactive price chart with 20/50-day moving averages and volume bars. Pulls live daily prices when an API key is set, otherwise renders bundled demo data.</p>
+        <div class="skills">
+          <span>API integration</span>
+          <span>Chart.js</span>
+          <span>Technical indicators</span>
+        </div>
+        <a href="./projects/stock-dashboard/index.html" class="btn">Open dashboard →</a>
+      </article>
+
+      <article class="card">
+        <span class="tag">Modeling</span>
+        <h3>DCF Valuation Calculator</h3>
+        <p>A 5-year discounted cash flow model with Gordon-growth terminal value, per-share intrinsic value, and a WACC × growth sensitivity grid.</p>
+        <div class="skills">
+          <span>Financial modeling</span>
+          <span>Sensitivity analysis</span>
+          <span>Interactive forms</span>
+        </div>
+        <a href="./projects/dcf-calculator/index.html" class="btn">Open calculator →</a>
+      </article>
+
+      <article class="card">
+        <span class="tag">Risk</span>
+        <h3>Crypto Volatility Tracker</h3>
+        <p>Annualized rolling volatility, Bollinger bands, and max-drawdown curves for major cryptocurrencies, powered by the CoinGecko public API.</p>
+        <div class="skills">
+          <span>Data scraping</span>
+          <span>Statistical analysis</span>
+          <span>Time-series charts</span>
+        </div>
+        <a href="./projects/crypto-volatility/index.html" class="btn">Open tracker →</a>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">Financial Portfolio · Built with vanilla JS &amp; Chart.js · Deployed on GitHub Pages</div>
+  </footer>
+</body>
+</html>
