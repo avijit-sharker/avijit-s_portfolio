@@ -1,11 +1,11 @@
-#H1 Avijit Sharker — Excel Analytics Portfolio
+#H1 **Avijit Sharker — Excel Analytics Portfolio**
 
 A portfolio of four interactive Excel workbooks built to showcase the analytical, reporting, and data-management skills from my wealth-management and operations background. Each workbook uses live Excel formulas (no hardcoded results), conditional formatting, native charts, Excel Tables with filters, and realistic sample data — all openable in Microsoft Excel, Google Sheets, or LibreOffice.
 
-#H2 About Me
+#H2 ***About Me***
 Service-oriented wealth-management professional with an MBA in Management Information Systems and 3+ years of experience across banking client service and operations. Advanced Excel (dashboards, pivot tables, formulas), CRM systems, client onboarding, and compliance — used daily in fast-paced, client-facing environments.
 
-Projects
+***Projects***
 1. Wealth Management — Client Portfolio & CRM Dashboard
 01_Wealth_Mgmt_CRM_Dashboard.xlsx · maps to Fulton Bank — Sales & Service Specialist
 A relationship-management dashboard tracking clients, assets under management, service requests, and upcoming reviews.
@@ -35,7 +35,7 @@ Sample data: 96 daily operations records, 45 shift records, 28 issues
 Key features: KPI cards (Total Volume, Productivity, On-Time %, Defect Rate, Variance, Open Issues, Red Days), weekly plan-vs-actual column chart, issues-by-type chart, defect-rate trend, RAG (Red/Amber/Green) status flags, leadership weekly summary with traffic-light formatting, data bars and color scales
 Skills demonstrated: Operational reporting, leadership dashboards, productivity/variance/defect-rate metrics, RAG status logic, weekly rollups
 
-Technical Highlights
+***Technical Highlights***
 Capability
 Where it appears
 Advanced Excel formulas
@@ -57,14 +57,14 @@ Consistent layout, number formatting (currency, %, dates)
 
 
 
-How to Use
+***How to Use***
 Open any .xlsx file in Excel (or Google Sheets / LibreOffice).
 Start on the Dashboard sheet — every KPI and chart is driven by live formulas.
 Edit the source data sheets (Client_Master, Transactions, etc.) and the dashboard updates automatically.
 Use the filters on each Table to slice the data.
 All data is illustrative sample data generated for demonstration. No real client or account information is included.
 
-File List
+***File List***
 01_Wealth_Mgmt_CRM_Dashboard.xlsx
 02_Account_Onboarding_Compliance.xlsx
 03_Branch_Banking_Performance.xlsx
